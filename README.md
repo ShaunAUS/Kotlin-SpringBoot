@@ -6,4 +6,7 @@
 - 간단한 todoList-(CRUD) 작성 / Swagger / 예외처리  
 
 
-- 기술블로그 : https://velog.io/@wnsqud70/KotlinSpringBoot-V1 에 학습내용을 포스팅 하였습니다.
+기술블로그 포스팅
+
+-https://velog.io/@wnsqud70/KotlinSpringBoot-V1   
+-https://velog.io/@wnsqud70/KotlinSpringBoot-V2
